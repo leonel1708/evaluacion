@@ -1,0 +1,12 @@
+Detalle Calificacion
+Requisitos Funcionales (5 Puntos): 5 Puntos. Cumple con todos los requisitos. Usa arreglo de objetos y funciona perfecto.
+Errores Manejados o no tiene en consola (2 Puntos): 2 Puntos. No hay errores en el JS y ha validado mayusculas y minusculas.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 2 Puntos. Excelente uso de funciones. Codigo cumple con DRY.
+Comentarios (1 Punto): 1 Punto. Buenos comentarios explican que hace cada funcion y el programa.
+Subio bien a github (1 Punto bonus):  1 Punto.
+Total: 11 Puntos.
+
+Comentarios Profesor
+Unica sugerencia es que use estrutura de carpetas JS y CSS, ya que eso es una convencion en progragamacion web.
+Me gusto mucho su proyecto esta excelente. El mejor que he calificado hasta ahora.
+https://github.com/leonel1708/evaluacion
